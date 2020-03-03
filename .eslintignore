@@ -1,0 +1,6 @@
+src/common/files/*
+build/*
+dist/*
+node_modules/*
+test-coverage/*
+styleguide/*

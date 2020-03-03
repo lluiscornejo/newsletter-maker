@@ -1,0 +1,169 @@
+@font-face {
+  font-family: 'Gotham';
+  src: url('./Gotham-Thin.eot');
+  src: url('./Gotham-Thin.eot?#iefix') format('embedded-opentype'),
+  url('./Gotham-Thin.ttf') format('truetype'),
+  url('./Gotham-Thin.woff') format('woff'),
+  url('./Gotham-Thin.woff2') format('woff2');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: 'Gotham';
+  src: url('./Gotham-ThinItalic.eot');
+  src: url('./Gotham-ThinItalic.eot?#iefix') format('embedded-opentype'),
+  url('./Gotham-ThinItalic.ttf') format('truetype'),
+  url('./Gotham-ThinItalic.woff') format('woff'),
+  url('./Gotham-ThinItalic.woff2') format('woff2');
+  font-display: swap;
+  font-style: italic;
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: 'Gotham';
+  src: url('./Gotham-XLight.eot');
+  src: url('./Gotham-XLight.eot?#iefix') format('embedded-opentype'),
+  url('./Gotham-XLight.ttf') format('truetype'),
+  url('./Gotham-XLight.woff') format('woff'),
+  url('./Gotham-XLight.woff2') format('woff2');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: 'Gotham';
+  src: url('./Gotham-Light.eot');
+  src: url('./Gotham-Light.eot?#iefix') format('embedded-opentype'),
+  url('./Gotham-Light.ttf') format('truetype'),
+  url('./Gotham-Light.woff') format('woff'),
+  url('./Gotham-Light.woff2') format('woff2');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'Gotham';
+  src: url('./Gotham-Book.eot');
+  src: url('./Gotham-Book.eot?#iefix') format('embedded-opentype'),
+       url('./Gotham-Book.ttf') format('truetype'),
+       url('./Gotham-Book.woff') format('woff'),
+       url('./Gotham-Book.woff2') format('woff2');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Gotham';
+  src: url('./Gotham-BookItalic.eot');
+  src: url('./Gotham-BookItalic.eot?#iefix') format('embedded-opentype'),
+  url('./Gotham-BookItalic.ttf') format('truetype'),
+  url('./Gotham-BookItalic.woff') format('woff'),
+  url('./Gotham-BookItalic.woff2') format('woff2');
+  font-display: swap;
+  font-style: italic;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Gotham';
+  src: url('./Gotham-Medium.eot');
+  src: url('./Gotham-Medium.eot?#iefix') format('embedded-opentype'),
+  url('./Gotham-Medium.ttf') format('truetype'),
+  url('./Gotham-Medium.woff') format('woff'),
+  url('./Gotham-Medium.woff2') format('woff2');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Gotham';
+  src: url('./Gotham-Bold.eot');
+  src: url('./Gotham-Bold.eot?#iefix') format('embedded-opentype'),
+  url('./Gotham-Bold.ttf') format('truetype'),
+  url('./Gotham-Bold.woff') format('woff'),
+  url('./Gotham-Bold.woff2') format('woff2');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'Gotham';
+  src: url('./Gotham-Black.eot');
+  src: url('./Gotham-Black.eot?#iefix') format('embedded-opentype'),
+  url('./Gotham-Black.ttf') format('truetype'),
+  url('./Gotham-Black.woff') format('woff'),
+  url('./Gotham-Black.woff2') format('woff2');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Gotham';
+  src: url('./Gotham-Ultra.eot');
+  src: url('./Gotham-Ultra.eot?#iefix') format('embedded-opentype'),
+  url('./Gotham-Ultra.ttf') format('truetype'),
+  url('./Gotham-Ultra.woff') format('woff'),
+  url('./Gotham-Ultra.woff2') format('woff2');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 800;
+}
+
+/* Gotham Narrow */
+
+@font-face {
+  font-family: 'GothamNarrow';
+  src: url('./GothamNarrow-Thin.eot');
+  src: url('./GothamNarrow-Thin.eot?#iefix') format('embedded-opentype'),
+  url('./GothamNarrow-Thin.ttf') format('truetype'),
+  url('./GothamNarrow-Thin.woff') format('woff'),
+  url('./GothamNarrow-Thin.woff2') format('woff2');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: 'GothamNarrow';
+  src: url('./GothamNarrow-Book.eot');
+  src: url('./GothamNarrow-Book.eot?#iefix') format('embedded-opentype'),
+  url('./GothamNarrow-Book.ttf') format('truetype'),
+  url('./GothamNarrow-Book.woff') format('woff'),
+  url('./GothamNarrow-Book.woff2') format('woff2');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'GothamNarrow';
+  src: url('./GothamNarrow-Black.eot');
+  src: url('./GothamNarrow-Black.eot?#iefix') format('embedded-opentype'),
+  url('./GothamNarrow-Black.ttf') format('truetype'),
+  url('./GothamNarrow-Black.woff') format('woff'),
+  url('./GothamNarrow-Black.woff2') format('woff2');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'GothamNarrow';
+  src: url('./GothamNarrow-Ultra.eot');
+  src: url('./GothamNarrow-Ultra.eot?#iefix') format('embedded-opentype'),
+  url('./GothamNarrow-Ultra.ttf') format('truetype'),
+  url('./GothamNarrow-Ultra.woff') format('woff'),
+  url('./GothamNarrow-Ultra.woff2') format('woff2');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 800;
+}
