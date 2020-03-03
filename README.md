@@ -1,4 +1,4 @@
-# Optica-App Web
+# Newsletter maker
 
 This is a newsletter maker, realized in ReactJs.
 
